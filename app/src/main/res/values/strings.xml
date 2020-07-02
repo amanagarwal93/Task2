@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Task2</string>
+
+    <string name="facebook_app_id">635477927317571</string>
+    <string name="fb_login_protocol_scheme">fb635477927317571</string>
+
+</resources>
